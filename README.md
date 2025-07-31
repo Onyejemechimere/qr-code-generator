@@ -1,17 +1,17 @@
-# 🔳 QR Code Generator (Node.js + Express)
+ 🔳 QR Code Generator (Node.js + Express)
 
 This is a simple Node.js application that generates QR codes for any URL. You can run it from the terminal or use a web interface built with Express.
 
-## 🚀 Features
+ Features
 
-- ✅ Generate QR codes in the terminal with dynamic input
-- 🌐 Web interface to create and view QR codes
-- 🖼️ Output as PNG file or base64 image
-- 💡 Beginner-friendly and well-commented
+-  Generate QR codes in the terminal with dynamic input
+-  Web interface to create and view QR codes
+-  Output as PNG file or base64 image
+-  Beginner-friendly and well-commented
 
 ---
 
-## 📦 Tech Stack
+ Tech Stack
 
 - Node.js
 - Express.js
@@ -19,9 +19,9 @@ This is a simple Node.js application that generates QR codes for any URL. You ca
 
 ---
 
-## 🧪 How to Use
+ How to Use
 
-### 🔧 Terminal Version
+ Terminal Version
 
 ```bash
 node qr-code-generator/index.js
